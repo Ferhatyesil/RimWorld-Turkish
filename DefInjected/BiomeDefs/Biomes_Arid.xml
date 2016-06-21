@@ -42,17 +42,17 @@
     </diseases>
     <terrainsByFertility>
       <li>
-        <terrain>Sand</terrain>
+        <terrain>Kum</terrain>
         <min>-999</min>
         <max>0.45</max>
       </li>
       <li>
-        <terrain>Soil</terrain>
+        <terrain>Toprak</terrain>
         <min>0.45</min>
         <max>0.90</max>
       </li>
       <li>
-        <terrain>SoilRich</terrain>
+        <terrain>KaliteliToprak</terrain>
         <min>0.90</min>
         <max>999</max>
       </li>
