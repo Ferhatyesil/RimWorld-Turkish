@@ -17,8 +17,59 @@ A Turkish language translation for RimWorld.
 * [@PMasta](https://github.com/PMasta)
 
 ## Translation Progress
-* DefInjected/TraitDef
- * Example_Traits.xml **DONE**
+* DefInjected
+ * BiomeDef **%0**
+ * BodyDef **%0**
+ * BodyPartDef **%0**
+ * BodyPartGroupDef **%0**
+ * BrokenStateDef **%0*
+ * ConceptDef **%0**
+ * DamageDef **%0**
+ * DesignationCategoryDef **%0**
+ * DifficultyDef **%0**
+ * FactionDef **%0**
+ * HairDef **%0**
+ * HediffDef **%0**
+ * HistoryAutoRecorderDef **%0**
+ * HistoryAutoRecorderGroupDef **%0**
+ * IncidentDef **%0**
+ * JobDef **%0**
+ * JoyKindDef **%0**
+ * KeyBindingCategoryDef **%0**
+ * KeyBindingDef **%0**
+ * LifeStageDef **%0**
+ * MainTabDef **%0**
+ * MainTabDef **%0**
+ * MapConditionDef **%0**
+ * NeedDef **%0**
+ * PawnCapacityDef **%0**
+ * PawnKindDef **%0**
+ * RaidStrategyDef **%0**
+ * RecipeDef **%0**
+ * ResearchProjectDef **%0**
+ * RoofDef **%0**
+ * RoomRoleDef **%0**
+ * RoomStatDef **%0**
+ * RulePackDef **%0**
+ * SkillDef **%0**
+ * SpecialThingFilterDef **%0**
+ * StatCategoryDef **%0**
+ * StatDef **%0**
+ * StorytellerDef **%0**
+ * StuffCategoryDef **%0**
+ * TaleDef **%0**
+ * TerrainDef **%0**
+ * ThingCategoryDef **%0**
+ * ThingDef **%0**
+ * ThoughtDef **%0**
+ * TimeAssignmentDef **%0**
+ * TradeDialogSorterDef **%0**
+ * TraderKindDef **%0**
+ * TrainableDef **%0**
+ * TraitDef **%0** 
+ * WeatherDef **%0** 
+ * WorkGiverDef **%0**
+ * WorkTypeDef **%0**
 * Keyed
  * Alerts.xml **DONE**
  * ConceptDefs.xml **DONE**
@@ -26,7 +77,7 @@ A Turkish language translation for RimWorld.
  * Dates.xml **DONE**
  * Designators.xml **DONE**
  * DialogTrees.xml **%DONE**
- * Dialog_StatsReports.xml **%0**
+ * Dialog_StatsReports.xml **%72**
  * DialogsVarious.xml **DONE**
  * Enums.xml **DONE**
  * FloatMenu.xml **%99**
@@ -51,7 +102,7 @@ A Turkish language translation for RimWorld.
  * WorkTags.xml **DONE**
  * About.txt **%1**
  * FriendlyName.txt **DONE**
- * LanguageInfo.xml **DONE**
+ * LanguageInfo.xml **DONE** 
 
 
 
