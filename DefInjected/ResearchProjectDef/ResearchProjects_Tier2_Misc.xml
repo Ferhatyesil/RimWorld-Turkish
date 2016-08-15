@@ -37,7 +37,7 @@
     <IEDBomb.label>GPC Bomba</IEDBomb.label>
     <IEDBomb.description>Kolonistlerin Geliştirilmiş Patlayıcı Cihazlardan tuzaklar kurmasına olanak sağlar. </IEDBomb.description>
     
-    <IEDIncendiary.label> GPA Yanıcı Bomba</IEDIncendiary.label>
+    <IEDIncendiary.label> GPC Yanıcı Bomba</IEDIncendiary.label>
     <IEDIncendiary.description>Kolonistlerin Geliştirilmiş Patlayıcı Cihazlardan yanıcı tuzaklar kurmasına olanak sağlar.</IEDIncendiary.description>
    
     <MicroelectronicsBasics.label>Mikroelektronik Temelleri</MicroelectronicsBasics.label>
