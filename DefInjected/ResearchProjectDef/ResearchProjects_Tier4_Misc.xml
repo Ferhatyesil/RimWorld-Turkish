@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <VitalsMonitor.label>hayati monitör</VitalsMonitor.label>
-    <VitalsMonitor.description>Hayati monitör yapımına izin verir, Kolonistlerin tıbbi yataklarının yanına yerleştirilirse hastaların tedavi kalitesi artar.</VitalsMonitor.description>
+    <VitalsMonitor.label>Hasta Başı Monitor</VitalsMonitor.label>
+    <VitalsMonitor.description>Hasta Başı Monitor yapımına izin verir, Kolonistlerin tıbbi yataklarının yanına yerleştirilirse hastaların tedavi kalitesi artar.</VitalsMonitor.description>
     
     <ComponentAssembly.label>Bileşenleri birleştirmek</ComponentAssembly.label>
     <ComponentAssembly.description>Bileşen Montaj tezgahına izin verir,Kolonistler burada basit malzemeler yapabilirler.</ComponentAssembly.description>
     
-    <MultibarrelWeapons.label>Çokk Namlulu Silah</MultibarrelWeapons.label>
+    <MultibarrelWeapons.label>Çok Namlulu Silah</MultibarrelWeapons.label>
     <MultibarrelWeapons.description>Mitralyoz yapabilirsin.</MultibarrelWeapons.description>
     
     <Cryptosleep.label>Uyku Kapsülü</Cryptosleep.label>
@@ -16,7 +16,7 @@
     <PoweredArmor.label>Güçlendirilmiş Zırh</PoweredArmor.label>
     <PoweredArmor.description>Neuro-memetic robotics ve plassteel dokuma teknılojisini kullanarak, güç zırhı ve güç kaskı yapmanı sağlar.</PoweredArmor.description>
     
-    <ChargedShot.label>şŞarjlı Atış</ChargedShot.label>
+    <ChargedShot.label>Şarjlı Atış</ChargedShot.label>
     <ChargedShot.description>Gizli darbeli-şarj enerjisini cephane olarak anlamanı sağlar. Şarjlı Tüfek yapmana olanak tanır.</ChargedShot.description>
     
 </LanguageData>
